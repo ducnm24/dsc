@@ -1,0 +1,8 @@
+Compiler: python
+Packages need to be installed:
+  - theano (version 1.0.4 recommended)
+  - numpy
+  - pandas
+  - keras
+  - scikit-learn
+  - collections
