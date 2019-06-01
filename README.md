@@ -4,4 +4,4 @@ Excutable file: final.py
 
 Please install required packages as given in 'Instruction'
 
-Enter row number of the private test set, prediction for that observation is written out right after
+Data is fed from command line, prediction for that observation is written out right after
